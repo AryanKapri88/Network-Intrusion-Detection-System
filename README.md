@@ -75,7 +75,7 @@ The datasets used in this project are:
 |---|---|
 |Long-Term Short Memory (LSTM)|99.6 %|
 
-
+### `Note`: This project is a final year group project conducted by three team members i.e Aryan Kapri (Me), Binayak Koirala, and Ishika Adhikari. Ongoing research is being conducted, and a research paper based on this project is in progress.
 
 
 
