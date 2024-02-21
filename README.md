@@ -7,6 +7,7 @@ This project focuses on building a Network Intrusion Detection System (NIDS) usi
 
 ![Network](https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs44196-021-00047-4/MediaObjects/44196_2021_47_Fig3_HTML.png) 
 
+
 ### Datasets
 
 The datasets used in this project are:
@@ -18,6 +19,7 @@ The datasets used in this project are:
 `NSL KDD:` The data is available at this repository.
 
 `AWID:` [AWID](https://icsdweb.aegean.gr/awid/)
+
 
 ### Models used on datasets and it's result
 
