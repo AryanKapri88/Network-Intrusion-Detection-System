@@ -12,8 +12,11 @@ This project focuses on building a Network Intrusion Detection System (NIDS) usi
 The datasets used in this project are:
 
 `CICIDS 2017:` [CICIDS-2017](https://www.kaggle.com/datasets/cicdataset/cicids2017/data)
+
 `CICIDS 2018:` [CICIDS-2018](https://www.kaggle.com/datasets/cbskcjbsocb/cicids2018-clean-data)
+
 `NSL KDD:` The data is available at this repository.
+
 `AWID:` [AWID](https://icsdweb.aegean.gr/awid/)
 
 ### Models used on datasets and it's result
