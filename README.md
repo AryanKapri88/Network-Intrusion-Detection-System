@@ -7,4 +7,4 @@ This project focuses on building a Network Intrusion Detection System (NIDS) usi
 
 ![Network](https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs44196-021-00047-4/MediaObjects/44196_2021_47_Fig3_HTML.png) 
 
-![Network](https://www.researchgate.net/publication/355926424/figure/fig3/AS:1086949637009415@1636160396432/A-generic-workflow-to-construct-the-LSTM-networks-at-individual-pixels-adopted-from-Ma.png)
+![LSTM](https://www.researchgate.net/publication/355926424/figure/fig3/AS:1086949637009415@1636160396432/A-generic-workflow-to-construct-the-LSTM-networks-at-individual-pixels-adopted-from-Ma.png)
