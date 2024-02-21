@@ -23,7 +23,7 @@ The datasets used in this project are:
 
 ### Models used on datasets and it's result
 
-#### CICIDS 2017
+### `CICIDS 2017`
 
 |ML Models|Accuracy|
 |---|---|
@@ -35,7 +35,7 @@ The datasets used in this project are:
 |---|---|
 |Long-Term Short Memory (LSTM)|98.8 %|
 
-#### `CICIDS 2018`
+### `CICIDS 2018`
 
 |ML Models|Accuracy|
 |---|---|
@@ -50,7 +50,7 @@ The datasets used in this project are:
 |---|---|
 |Long-Term Short Memory (LSTM)|99.5 %|
 
-#### `NSL KDD`
+### `NSL KDD`
 
 |ML Models|Accuracy|
 |---|---|
@@ -63,7 +63,7 @@ The datasets used in this project are:
 |---|---|
 |Long-Term Short Memory (LSTM)|98.7 %|
 
-#### AWID
+### `AWID`
 
 |ML Models|Accuracy|
 |---|---|
